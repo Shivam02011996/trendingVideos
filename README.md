@@ -1,4 +1,4 @@
-# Created a Basic Box-Office App made by React
+# Created a Basic trending video  App made by React
 
 # Getting Started with Create React App
 
